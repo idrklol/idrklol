@@ -1,4 +1,4 @@
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://i.imgur.com/GBT5GFo.gif" width="100"/>
 <div id="views">
      <img src="https://komarev.com/ghpvc/?username=idrklol&style=flat-square&color=blue" alt=""/>
