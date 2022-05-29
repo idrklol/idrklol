@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://i.imgur.com/GBT5GFo.gif" width="100"/>
 <div id="views">
      <img src="https://komarev.com/ghpvc/?username=idrklol&style=flat-square&color=blue" alt=""/>
@@ -7,10 +7,6 @@
   I'm bottle hi!!!
   <img src="https://c.tenor.com/K-BBg8fYIdQAAAAi/kirana-margay.gif" width="30px"/>
 </h1>
-</div>
-
-<div align="center">
-  <img src="https://c.tenor.com/cwSkPoAkPy0AAAAd/cat-run.gif" width="600" height="300"/>
 </div>
 
 ## About me :D
