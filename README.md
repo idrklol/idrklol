@@ -5,7 +5,7 @@
   </div>
 <h1>
   I'm bottle hi!!!
-  <img src="https://c.tenor.com/K-BBg8fYIdQAAAAi/kirana-margay.gif" width="30px"/>
+  <img src="https://c.tenor.com/K-BBg8fYIdQAAAAi/kirana-margay.gif" width="30"/>
 </h1>
 </div>
 
@@ -18,7 +18,7 @@ I have a discord server @ [discord.gg/bottle](https://discord.gg/YZAb5B6x2X)
 
 feel free to fork and edit any of my repositories!
 ### More about me
-- i do random stuff for fun <img src="https://c.tenor.com/b46GRzAmGeYAAAAi/chika-dance.gif" width="20px"/>
+- i do random stuff for fun <img src="https://c.tenor.com/b46GRzAmGeYAAAAi/chika-dance.gif" width="20"/>
 - sometimes i update my bot and put it here
 - i'm 16
 
